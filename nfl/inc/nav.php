@@ -10,24 +10,19 @@
 
 	<body>
 
-
-
 		<div>
 
-
 			<header>
-
-				
 
 				<nav>
 
 					<label class="logo"> NFL </label>
 
 					<menu>
-						<li > <a class="menu" href="background.php"> Background </a> </li>
-						<li > <a class="menu" href="innerworkings.php"> Inner Workings </a> </li>
-						<li  > <a class="menu" href="teams.php"> Teams </a> </li>
-						<li > <a class="menu" href="nflpa.php"> NFLPA </a> </li>
+						<li><a class="menu" href="background.php">Background</a></li>
+						<li><a class="menu" href="innerworkings.php">Inner Workings</a></li>
+						<li><a class="menu" href="teams.php">Teams</a></li>
+						<li><a class="menu" href="nflpa.php">NFLPA</a></li>
 
 					</menu>
 

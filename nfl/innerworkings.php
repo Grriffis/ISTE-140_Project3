@@ -1,7 +1,5 @@
 <?php include "inc/nav.php";?>
 
-<body>
-
     <article>
 
         <h2>Season and Playoff</h2>
@@ -19,7 +17,9 @@
 
     </article>
 
-    <?php include "inc/reference.php";?>
+</div>
+
+<?php include "inc/reference.php";?>
 
 </body>
 

@@ -1,6 +1,4 @@
 <?php include "inc/nav.php";?>
-
-<body>
     
     <figure>
         <img src="images/NFLSchedule1050Web.jpg" alt="Wild Style" class="center">

@@ -1,7 +1,5 @@
 <?php include "inc/nav.php";?>
 
-<body>
-
     <article>
 
         <h2> National Football League Players Association (NFLPA) </h2>
@@ -10,7 +8,9 @@
 
     </article>
 
-    <?php include "inc/reference.php";?>
+</div>
+
+<?php include "inc/reference.php";?>
 
 </body>
 

@@ -1,7 +1,5 @@
 <?php include "inc/nav.php";?>
 
-<body>
-
     <article>
 
         <h1>NFL</h1>
@@ -26,27 +24,9 @@
 
         <p>Each April (excluding 2014 when it took place in May), the NFL holds a draft of college players. The draft consists of seven rounds, with each of the 32 clubs getting one pick in each round. The draft order for non-playoff teams is determined by regular-season record; among playoff teams, teams are first ranked by the furthest round of the playoffs they reached, and then are ranked by regular-season record. For example, any team that reached the divisional round will be given a higher pick than any team that reached the conference championships, but will be given a lower pick than any team that did not make the divisional round. The Super Bowl champion always drafts last, and the losing team from the Super Bowl always drafts next-to-last. All potential draftees must be at least three years removed from high school in order to be eligible for the draft. Underclassmen that have met that criterion to be eligible for the draft must write an application to the NFL by January 15 renouncing their remaining college eligibility. Clubs can trade away picks for future draft picks, but cannot trade the rights to players they have selected in previous drafts. Aside from the 7 picks each club gets, compensatory draft picks are given to teams that have lost more compensatory free agents than they have gained. These are spread out from rounds 3 to 7, and a total of 32 are given. Clubs are required to make their selection within a certain period of time, the exact time depending on which round the pick is made. If they fail to do so on time, the clubs behind them can begin to select their players in order, but they do not lose the pick outright. This happened in the 2003 draft, when the Minnesota Vikings failed to make their selection on time. The Jacksonville Jaguars and Carolina Panthers were able to make their picks before the Vikings were able to use theirs. Selected players are only allowed to negotiate contracts with the team that picked them, but if they choose not to sign they become eligible for the next year's draft. Under the current collective bargaining contract, all contracts to drafted players must be four-year deals with a club option for a fifth. Contracts themselves are limited to a certain amount of money, depending on the exact draft pick the player was selected with. Players who were draft eligible but not picked in the draft are free to sign with any club. The NFL operates several other drafts in addition to the NFL draft. The league holds a supplemental draft annually. Clubs submit emails to the league stating the player they wish to select and the round they will do so, and the team with the highest bid wins the rights to that player. The exact order is determined by a lottery held before the draft, and a successful bid for a player will result in the team forfeiting the rights to its pick in the equivalent round of the next NFL draft. Players are only eligible for the supplemental draft after being granted a petition for special eligibility. The league holds expansion drafts, the most recent happening in 2002 when the Houston Texans began play as an expansion team. Other drafts held by the league include an allocation draft in 1950 to allocate players from several teams that played in the dissolved All-America Football Conference and a supplemental draft in 1984 to give NFL teams the rights to players who had been eligible for the main draft but had not been drafted because they had signed contracts with the United States Football League or Canadian Football League. Like the other major sports leagues in the United States, the NFL maintains protocol for a disaster draft. In the event of a 'near disaster' (less than 15 players killed or disabled) that caused the club to lose a quarterback, they could draft one from a team with at least three quarterbacks. In the event of a 'disaster' (15 or more players killed or disabled) that results in a club's season being canceled, a restocking draft would be held. Neither of these protocols has ever had to be implemented.</p>
 
-        <h2>National Football League Players Association (NFLPA)</h2>
-
-        <p>The National Football League Players Association (NFLPA) is the union for professional football players in the National Football League. The union allows players to stand together to protect their health, rights, and families. The union was formed in 1956; players used their combined strength to force owners to provide basics like clean uniforms and safer equipment. Their job is to represent players’ interests during negotiations for the next CBA and to make sure players are well informed and prepared for them. In 2011, they negotiated a landmark Collective Bargaining Agreement (CBA) after an 18-week lockout by the owners. In March 2020, they negotiated the current CBA, which runs through the 2030 season. The current CBA brought new gains to the members, including an increased share in revenue, expanded roster sizes, a sizable bump in minimum salaries, health & safety advances, rookie contract bonuses, and more. The NFLPA represents all players in matters concerning wages, hours and working conditions and protects their rights as professional football players, makes sure that the terms of the Collective Bargaining Agreement (CBA) are met and negotiates and monitors retirement and insurance benefits. The union also provides other member services and activities, provides assistance to charitable and community organizations and enhances and defends the image of players and their profession on and off the field. The NFLPA works from the bottom-up. All power and authority to do anything in the NFLPA comes from the Board of Reps who are elected by the player members. Player Members on each NFL team elect both a Player Representative and an Alternate Player Representative to serve on the Board of Player Representatives (The Board of Player Reps). The Board of Player Reps meets at least once a year and makes all of the important decisions for the organization.</p>
-
     </article>
-
-    <aside>
-
-        <h2>Teams and Divisions</h2>
-
-        <ul>
-            <li> AFC East Buffalo Bills, Miami Dolphins, New England Patriots, New York Jets</li>
-            <li> AFC South Houston Texans, Indianapolis Colts, Jacksonville Jaguars, Tennessee Titans</li>
-            <li>AFC West Denver Broncos, Kansas City Chiefs, Oakland Raiders, San Diego Chargers</li>
-            <li>NFC North Chicago Bears, Detroit Lions, Green Bay Packers, Minnesota Vikings</li>
-            <li>NFC East Dallas Cowboys, New York Giants, Philadelphia Eagles, Washington Redskins</li>
-            <li>NFC South Atlanta Falcons, Carolina Panthers, New Orleans Saints, Tampa Bay Buccaneers</li>
-            <li>NFC West Arizona Cardinals, Los Angeles Rams, San Francisco 49ers, Seattle Seahawks</li>
-        </ul>
-
-    </aside>
+    
+    </div>
 
     <?php include "inc/reference.php";?>
 
